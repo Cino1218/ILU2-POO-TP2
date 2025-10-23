@@ -12,4 +12,5 @@ public class BoundaryLibererEtal {
 	
     public void libererEtal(String nomVendeur) {
 
+    }
 }

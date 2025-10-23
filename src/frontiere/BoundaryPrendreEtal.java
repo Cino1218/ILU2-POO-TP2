@@ -15,4 +15,6 @@ public class BoundaryPrendreEtal {
 
 	private void installerVendeur(String nomVendeur) {
 
+	}
+	
 }
